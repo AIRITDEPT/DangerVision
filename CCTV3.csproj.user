@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <DeviceId>30F105C9-681E-420b-A277-7C086EAD8A4E</DeviceId>
+    <UseEmulator>false</UseEmulator>
+    <RemoteDebugMachine>TomsRP3</RemoteDebugMachine>
+    <AuthenticationMode>Universal</AuthenticationMode>
+    <RemoteDebugEnabled>true</RemoteDebugEnabled>
+    <CreateCleanLayout>true</CreateCleanLayout>
+    <DoNotLaunchApp>false</DoNotLaunchApp>
+    <DebugEngines>{3B476D35-A401-11D2-AAD4-00C04F990171}</DebugEngines>
+    <BackgroundTaskDebugEngines>{3B476D35-A401-11D2-AAD4-00C04F990171}</BackgroundTaskDebugEngines>
+    <EnableUnmanagedDebugging>true</EnableUnmanagedDebugging>
+    <DeploymentType>CopyToDevice</DeploymentType>
+    <LayoutDir />
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM'">
+    <DeviceId>30F105C9-681E-420b-A277-7C086EAD8A4E</DeviceId>
+    <UseEmulator>false</UseEmulator>
+    <RemoteDebugEnabled>true</RemoteDebugEnabled>
+    <AuthenticationMode>Universal</AuthenticationMode>
+    <RemoteDebugMachine>DangerVisionRP3</RemoteDebugMachine>
+    <CreateCleanLayout>false</CreateCleanLayout>
+    <DeploymentType>CopyToDevice</DeploymentType>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <AllowLocalNetworkLoopback>false</AllowLocalNetworkLoopback>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <RemoteDebugEnabled>false</RemoteDebugEnabled>
+    <AuthenticationMode>Universal</AuthenticationMode>
+    <RemoteDebugMachine>169.254.117.54</RemoteDebugMachine>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AppxPackageIsForStore>False</AppxPackageIsForStore>
+    <AppxShowAllApps>False</AppxShowAllApps>
+    <AppxBuildConfigurationSelection>arm</AppxBuildConfigurationSelection>
+    <PackageOptionalProjectsInIdeBuilds>False</PackageOptionalProjectsInIdeBuilds>
+    <Source>C:\LocalUserData\tomwalsh\Downloads\lol.png</Source>
+    <ProjectView>ShowAllFiles</ProjectView>
+    <SplashScreenSource>C:\Visual Studio Projects\CCTV\CCTV3\CCTV3\Assets\SplashScreen.scale-400.png</SplashScreenSource>
+    <RemoteMachine0>TomsRP3</RemoteMachine0>
+    <UseAuthentication0>False</UseAuthentication0>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <RemoteDebugEnabled>false</RemoteDebugEnabled>
+    <AuthenticationMode>Universal</AuthenticationMode>
+    <RemoteDebugMachine>minwinpc</RemoteDebugMachine>
+    <CreateCleanLayout>false</CreateCleanLayout>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,39 @@
+﻿/debug:pdbonly
+/nowarn:0436;0618;1668;1685;1701;1702
+/debug+
+/nostdlib+
+/optimize+
+/out:"C:\Visual Studio Projects\CCTV\CCTV3\CCTV3\obj\x86\Release\ilc\intermediate\Camera Control.McgInterop.dll"
+/pdb:"C:\Visual Studio Projects\CCTV\CCTV3\CCTV3\obj\x86\Release\ilc\intermediate\Camera Control.McgInterop.pdb"
+/platform:anycpu
+/warnaserror+
+/unsafe
+/nologo
+/target:library
+/define:MCG_PRE_BUILD
+/r:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.1.8\tools\SharedLibrary\ret\AnalysisILToc\System.Private.CoreLib.iltoc"
+/r:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.1.8\tools\SharedLibrary\ret\AnalysisILToc\System.Private.Interop.iltoc"
+/r:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.1.8\tools\SharedLibrary\ret\AnalysisILToc\System.Private.Uri.iltoc"
+/r:"C:\Visual Studio Projects\CCTV\CCTV3\CCTV3\obj\x86\Release\ilc\in\System.Reflection.DispatchProxy.dll"
+/r:"C:\Visual Studio Projects\CCTV\CCTV3\CCTV3\obj\x86\Release\ilc\in\System.Reflection.dll"
+/r:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.1.8\tools\SharedLibrary\ret\AnalysisILToc\System.Runtime.iltoc"
+/r:"C:\Visual Studio Projects\CCTV\CCTV3\CCTV3\obj\x86\Release\ilc\in\System.Runtime.InteropServices.dll"
+/r:"C:\Visual Studio Projects\CCTV\CCTV3\CCTV3\obj\x86\Release\ilc\in\System.Runtime.InteropServices.WindowsRuntime.dll"
+/r:"C:\Visual Studio Projects\CCTV\CCTV3\CCTV3\obj\x86\Release\ilc\in\System.Numerics.Vectors.dll"
+/r:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.1.8\tools\SharedLibrary\ret\AnalysisILToc\System.Threading.iltoc"
+/r:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.1.8\tools\SharedLibrary\ret\AnalysisILToc\System.Diagnostics.Debug.iltoc"
+/r:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.1.8\tools\SharedLibrary\ret\AnalysisILToc\System.Runtime.Extensions.iltoc"
+/r:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.1.8\tools\SharedLibrary\ret\AnalysisILToc\System.Collections.iltoc"
+/r:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.1.8\tools\SharedLibrary\ret\AnalysisILToc\System.ObjectModel.iltoc"
+/r:"C:\Visual Studio Projects\CCTV\CCTV3\CCTV3\obj\x86\Release\ilc\in\System.Runtime.WindowsRuntime.dll"
+/r:"C:\Visual Studio Projects\CCTV\CCTV3\CCTV3\obj\x86\Release\ilc\in\System.Runtime.WindowsRuntime.UI.Xaml.dll"
+/r:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.1.8\tools\SharedLibrary\ret\AnalysisILToc\System.Private.SharedLibrary.Interop.Generated.iltoc"
+/r:"C:\Visual Studio Projects\CCTV\CCTV3\CCTV3\obj\x86\Release\ilc\intermediate\System.Private.Camera Control.Generated.dll"
+"C:\Visual Studio Projects\CCTV\CCTV3\CCTV3\obj\x86\Release\ilc\intermediate\Camera Control.McgInterop\Adapters.g.cs"
+"C:\Visual Studio Projects\CCTV\CCTV3\CCTV3\obj\x86\Release\ilc\intermediate\Camera Control.McgInterop\AssemblyInfo.g.cs"
+"C:\Visual Studio Projects\CCTV\CCTV3\CCTV3\obj\x86\Release\ilc\intermediate\Camera Control.McgInterop\Data.g.cs"
+"C:\Visual Studio Projects\CCTV\CCTV3\CCTV3\obj\x86\Release\ilc\intermediate\Camera Control.McgInterop\Helpers.g.cs"
+"C:\Visual Studio Projects\CCTV\CCTV3\CCTV3\obj\x86\Release\ilc\intermediate\Camera Control.McgInterop\ImplTypes.g.cs"
+"C:\Visual Studio Projects\CCTV\CCTV3\CCTV3\obj\x86\Release\ilc\intermediate\Camera Control.McgInterop\PInvoke.g.cs"
+"C:\Visual Studio Projects\CCTV\CCTV3\CCTV3\obj\x86\Release\ilc\intermediate\Camera Control.McgInterop\SafeTypes.g.cs"
+"C:\Visual Studio Projects\CCTV\CCTV3\CCTV3\obj\x86\Release\ilc\intermediate\Camera Control.McgInterop\SharedStubs.g.cs"

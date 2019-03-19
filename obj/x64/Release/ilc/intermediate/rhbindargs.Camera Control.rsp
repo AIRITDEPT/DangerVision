@@ -1,0 +1,16 @@
+﻿/osver:6.2
+/appcontainer
+"/runtime:mrt100_app"
+/eh:clr
+/pdb
+"/nativeLink:C:\Users\tomwalsh\.nuget\packages\runtime.win10-x64.microsoft.net.native.compiler\2.1.8\tools\x64\ilc\lib\Native\vmath.lib"
+/customImports
+/methodBodyFolding
+"C:\Visual Studio Projects\CCTV\CCTV3\CCTV3\obj\x64\Release\ilc\intermediate\MDIL\Camera Control.mdilexe"
+"/i:C:\Visual Studio Projects\CCTV\CCTV3\CCTV3\obj\x64\Release\ilc\intermediate\MDIL"
+"/out:C:\Visual Studio Projects\CCTV\CCTV3\CCTV3\obj\x64\Release\ilc\intermediate\Native\Camera Control.exe"
+"/pdbAltPath:C:\Visual Studio Projects\CCTV\CCTV3\CCTV3\bin\x64\Release\ilc"
+"/res:C:\Visual Studio Projects\CCTV\CCTV3\CCTV3\obj\x64\Release\ilc\intermediate\Native.res"
+"/i:C:\Users\tomwalsh\.nuget\packages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.1.8\tools\SharedLibrary\ret\MDIL"
+/shimexe
+"/classlib:SharedLibrary"

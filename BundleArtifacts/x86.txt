@@ -1,0 +1,2 @@
+MainPackage=C:\Visual Studio Projects\CCTV\CCTV3\CCTV3\bin\x86\Release\CCTV3_1.0.2.0_x86.appx
+SymbolPackage=C:\Visual Studio Projects\CCTV\CCTV3\CCTV3\AppPackages\CCTV3_1.0.2.0_Test\CCTV3_1.0.2.0_x86.appxsym

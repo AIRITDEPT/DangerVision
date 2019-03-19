@@ -1,0 +1,6 @@
+MainPackage=C:\Visual Studio Projects\CCTV\CCTV3\CCTV3\bin\ARM\Release\CCTV3_1.0.2.0_ARM.appx
+SymbolPackage=C:\Visual Studio Projects\CCTV\CCTV3\CCTV3\AppPackages\CCTV3_1.0.2.0_Test\CCTV3_1.0.2.0_ARM.appxsym
+ResourcePack=C:\Visual Studio Projects\CCTV\CCTV3\CCTV3\bin\ARM\Release\CCTV3_1.0.2.0_scale-100.appx
+ResourcePack=C:\Visual Studio Projects\CCTV\CCTV3\CCTV3\bin\ARM\Release\CCTV3_1.0.2.0_scale-125.appx
+ResourcePack=C:\Visual Studio Projects\CCTV\CCTV3\CCTV3\bin\ARM\Release\CCTV3_1.0.2.0_scale-150.appx
+ResourcePack=C:\Visual Studio Projects\CCTV\CCTV3\CCTV3\bin\ARM\Release\CCTV3_1.0.2.0_scale-400.appx

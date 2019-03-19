@@ -1,0 +1,13 @@
+﻿[ResourceMetadata]
+"ResourceDimensions"		"scale-200"
+"ResourceDimensions"		"language-en-us"
+
+[Files]
+"C:\Visual Studio Projects\CCTV\CCTV3\CCTV3\obj\ARM\Release\split.pri"			"resources.pri"
+"C:\Visual Studio Projects\CCTV\CCTV3\CCTV3\obj\ARM\Release\PackageLayout\WinMetadata\Windows.winmd"			"WinMetadata\Windows.winmd"
+"C:\Visual Studio Projects\CCTV\CCTV3\CCTV3\obj\ARM\Release\PackageLayout\Properties\Default.rd.xml"			"Properties\Default.rd.xml"
+"C:\Visual Studio Projects\CCTV\CCTV3\CCTV3\obj\ARM\Release\PackageLayout\Camera Control.xr.xml"			"Camera Control.xr.xml"
+"C:\Visual Studio Projects\CCTV\CCTV3\CCTV3\obj\ARM\Release\PackageLayout\Assets\StoreLogo.png"			"Assets\StoreLogo.png"
+"C:\Visual Studio Projects\CCTV\CCTV3\CCTV3\obj\ARM\Release\PackageLayout\Assets\Square44x44Logo.png"			"Assets\Square44x44Logo.png"
+"C:\Visual Studio Projects\CCTV\CCTV3\CCTV3\obj\ARM\Release\PackageLayout\Assets\Square150x150Logo.png"			"Assets\Square150x150Logo.png"
+"C:\Visual Studio Projects\CCTV\CCTV3\CCTV3\obj\ARM\Release\PackageLayout\Assets\SplashScreen.scale-200.png"			"Assets\SplashScreen.scale-200.png"

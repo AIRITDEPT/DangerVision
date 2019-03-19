@@ -1,0 +1,7 @@
+﻿"C:\Visual Studio Projects\CCTV\CCTV3\CCTV3\obj\ARM\Release\ilc\in\Camera Control.exe"
+/Lib:"C:\Visual Studio Projects\CCTV\CCTV3\CCTV3\obj\ARM\Release\ilc\in"
+/Lib:"C:\Users\tomwalsh\.nuget\packages\runtime.win10-arm.microsoft.net.native.compiler\2.1.8\tools\ARM\ilc\lib\Private"
+/WinMD:"C:\Visual Studio Projects\CCTV\CCTV3\CCTV3\obj\ARM\Release\ilc\in\WinMetadata\Windows.winmd"
+/VSTelemetrySessionSettings:"{"IsOptedIn":true,"HostName":"Dev14","AppInsightsInstrumentationKey":"f144292e-e3b2-4011-ac90-20e5c03fbce5","AsimovInstrumentationKey":"AIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70","AppId":1001,"UserId":"ccf5f7d2-7256-469c-9c76-04ae49a7443b","Id":"0fd02e08-ed8d-4409-9dd2-a1aac7460fa8","ProcessStartTime":636854981194625784}"
+/RdXmlPath:"C:\Users\tomwalsh\.nuget\packages\microsoft.net.native.compiler\2.1.8\tools\LibraryXML"
+/RunOnlyPreDR

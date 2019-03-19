@@ -1,0 +1,7 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-125"
+"ResourceDimensions"		"scale-125"
+
+[Files]
+"C:\Visual Studio Projects\CCTV\CCTV3\CCTV3\obj\x86\Release\split.scale-125.pri"			"resources.pri"
+"C:\Visual Studio Projects\CCTV\CCTV3\CCTV3\obj\x86\Release\PackageLayout\Assets\SplashScreen.scale-125.png"			"Assets\SplashScreen.scale-125.png"
